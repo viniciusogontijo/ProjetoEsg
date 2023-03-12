@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlataformaEsg</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastra-se</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Deslogar">Deslogar</string>
+</resources>
